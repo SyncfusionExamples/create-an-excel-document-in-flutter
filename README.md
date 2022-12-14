@@ -1,6 +1,6 @@
 # Create an Excel Document in Flutter
 
-A quick-start example to help you add the [Syncfusion Flutter XlsIO](https://www.syncfusion.com/document-processing/excel-framework/flutter-excel-library?utm_source=github&utm_medium=github&utm_campaign=github-xlsio-examples) library to a Flutter app. You will learn how to create an Excel worksheet with text and save the Excel worksheet in mobile, web, and desktop applications.
+A quick-start example to help you add the [Syncfusion Flutter XlsIO](https://www.syncfusion.com/document-processing/excel-framework/flutter-excel-library?utm_source=github&utm_medium=github&utm_campaign=github-flutter-xlsio-examples) library to a Flutter app. You will learn how to create an Excel worksheet with text and save the Excel worksheet in mobile, web, and desktop applications.
 
 Watch the video: Coming soon...
 
